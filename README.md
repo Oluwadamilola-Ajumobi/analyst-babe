@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwadamilola Felicia
-- 👀 I’m interested in Data Science, Data Analysis, Machine Learning.
-- 🌱 I’m currently learning pandas and numpy
-- 💞️ I’m looking to collaborate on Data science projects to build more skills, Internships as well
+- 👀 I’m interested in Data Science, Data Analysis, Machine Learning, Product Management.
+- 🌱 I’m currently learning how to use data to make the world a better place.
+- 💞️ I’m looking to collaborate on Data science projects to enhance my skills
 - 📫 How to reach me - ajumobioluwadamilola2@gmail.com
 
 <!---
